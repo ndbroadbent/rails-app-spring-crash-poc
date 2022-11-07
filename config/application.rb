@@ -36,4 +36,4 @@ module RailsApp
   end
 end
 
-raise "test exception"
+raise 'test'
